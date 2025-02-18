@@ -1,11 +1,6 @@
-ID,Name,Department,Salary
-201,John Smith,Sales,55000
-202,Jane Doe,Marketing,60000
-203,Emily Johnson,HR,52000
-204,Michael Brown,IT,75000
-205,Sarah Davis,Finance,67000
-206,David White,IT,80000
-207,Linda Green,Sales,72000
-208,James Black,HR,50000
-209,Emma Wilson,Marketing,65000
-210,Robert Brown,Finance,77000
+ID,Name,Email,Phone,Department,Salary
+201,John Smith,john.smith@example.com,1234567890,Sales,55000
+202,Jane Doe,jane.doe@invalid,email.com,0987654321,Marketing,60000
+203,Emily Johnson,emily.johnson@example.com,12345,HR,52000
+204,Michael Brown,michael.brown@example.com,1122334455,IT,75000
+205,Sarah Davis,sarah.davis@company.org,6677889900,Finance,67000

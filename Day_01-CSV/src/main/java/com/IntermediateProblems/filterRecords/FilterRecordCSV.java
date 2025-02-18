@@ -1,4 +1,4 @@
-package com.BasicProblems.IntermediateProblems.filterRecords;
+package com.IntermediateProblems.filterRecords;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;

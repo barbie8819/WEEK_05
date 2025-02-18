@@ -1,4 +1,4 @@
-package com.BasicProblems.IntermediateProblems.SearchCSV;
+package com.IntermediateProblems.SearchCSV;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
