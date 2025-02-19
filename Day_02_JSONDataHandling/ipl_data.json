@@ -1,0 +1,13 @@
+[
+  {
+    "match_id": 101,
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "score": {
+      "Mumbai Indians": 178,
+      "Chennai Super Kings": 182
+    },
+    "winner": "Chennai Super Kings",
+    "player_of_match": "MS Dhoni"
+  }
+]

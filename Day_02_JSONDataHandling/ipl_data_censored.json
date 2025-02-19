@@ -1,0 +1,11 @@
+[ {
+  "match_id" : 101,
+  "team1" : "Mumbai ***",
+  "team2" : "Chennai ***",
+  "score" : {
+    "Mumbai ***" : 178,
+    "Chennai ***" : 182
+  },
+  "winner" : "Chennai ***",
+  "player_of_match" : "REDACTED"
+} ]
