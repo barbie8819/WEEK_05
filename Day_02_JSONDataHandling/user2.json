@@ -1,0 +1,5 @@
+{
+  "city": "New York",
+  "zip": "10001",
+  "skills": ["Java", "Spring Boot"]
+}
